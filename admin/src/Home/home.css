@@ -1,0 +1,18 @@
+.serch {
+  margin-bottom: 20px;
+}
+.itemserch {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  border-radius: 2px;
+}
+.Inputadmin {
+  width: 500px;
+}
+.contanerinput {
+  display: flex;
+}
+.buttonserch {
+  background-color: rgb(0, 208, 255);
+}
